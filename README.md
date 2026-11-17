@@ -6,7 +6,7 @@ Viewers send gifts, things happen in your game. Coins, bricks, jail cells, knock
 
 ## ⬇️ Download
 
-**[Get the latest version](../../releases/latest)** and download `CTRLd-Chaos-Setup-x.x.x.exe`.
+**[Go to the downloads](../../releases)** and download the newest `CTRLd-Chaos-Setup-x.x.x.exe`.
 
 Windows 10/11 (64-bit). Windows may say *"Windows protected your PC"* because the installer isn't code-signed yet: click **More info → Run anyway**.
 
