@@ -16,6 +16,8 @@ Windows 10/11 (64-bit). Windows may say *"Windows protected your PC"* because th
 | --- | --- |
 | **Potato Please** | First launch after installing the mod takes a few minutes (one time only). |
 | **How They Built the Pyramids** | You must **host** the world. |
+| **One Million Coins** | If HypeMyStream's mod is installed in the game too, remove it so the two don't clash. |
+| **PowerWash Simulator 2** | Play solo. First launch after installing the mod takes a few minutes (one time only). |
 
 More games are added as they release.
 
